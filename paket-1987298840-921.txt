@@ -1,0 +1,10 @@
+Name: terminal-banner
+Version: 0.2.0
+Summary: Text Banner for Terminals
+Home-page: https://github.com/martincyoung/terminal_banner
+Author: Martin Young
+Author-email: martin.young@cantab.net
+License: MIT
+Location: /home/devasc/Documents/1987298840-921/tugas/lib/python3.8/site-packages
+Requires: 
+Required-by: 
